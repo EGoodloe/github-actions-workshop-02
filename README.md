@@ -15,6 +15,12 @@
   <a href="#license">License</a>
 </p>
 
+[![Intro - Manual Workflow](https://github.com/EGoodloe/github-actions-workshop-02/actions/workflows/intro-manual-workflow.yml/badge.svg)](https://github.com/EGoodloe/github-actions-workshop-02/actions/workflows/intro-manual-workflow.yml)
+[![Intro - Simple Workflow](https://github.com/EGoodloe/github-actions-workshop-02/actions/workflows/intro-simple-workflow.yml/badge.svg)](https://github.com/EGoodloe/github-actions-workshop-02/actions/workflows/intro-simple-workflow.yml)
+[![Intro - YAML Syntax](https://github.com/EGoodloe/github-actions-workshop-02/actions/workflows/intro-yaml-syntax.yml/badge.svg)](https://github.com/EGoodloe/github-actions-workshop-02/actions/workflows/intro-yaml-syntax.yml)
+[![Intro - Scheduled Workflow](https://github.com/EGoodloe/github-actions-workshop-02/actions/workflows/intro-scheduled-workflow.yml/badge.svg)](https://github.com/EGoodloe/github-actions-workshop-02/actions/workflows/intro-scheduled-workflow.yml)
+[![Intro - Custom Workflow](https://github.com/EGoodloe/github-actions-workshop-02/actions/workflows/intro-custom-workflow.yml/badge.svg)](https://github.com/EGoodloe/github-actions-workshop-02/actions/workflows/intro-custom-workflow.yml)
+
 ---
 
 ## Overview
